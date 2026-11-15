@@ -1,2 +1,3 @@
 # stasul73.github.io
-Github pages web site
+Github pagesi web site
+Test of VC ntegration
